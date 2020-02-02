@@ -1,0 +1,28 @@
+{
+  "name": "keystone-utdl",
+  "version": "1.0.0",
+  "description": "Placeholder description",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jagvirdehal/Keystone-UTDL.git"
+  },
+  "author": "Jagvir Dehal, Sarah Shakim, Anmol Chhatwal, Vid Sharda",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jagvirdehal/Keystone-UTDL/issues"
+  },
+  "homepage": "https://github.com/jagvirdehal/Keystone-UTDL#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "dropbox": "^4.0.30",
+    "ejs": "^3.0.1",
+    "express": "^4.17.1",
+    "fs": "0.0.1-security",
+    "isomorphic-fetch": "^2.2.1",
+    "path": "^0.12.7"
+  }
+}
